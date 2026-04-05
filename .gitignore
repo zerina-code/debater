@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# env files - never commit secrets
+.env
+.env.local
+.env.production
+
+# Next.js build output
+.next/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# misc
+*.log
