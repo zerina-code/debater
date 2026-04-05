@@ -1,0 +1,7 @@
+{
+  "/api/debate/route": "app/api/debate/route.js",
+  "/page": "app/page.js",
+  "/api/vote/route": "app/api/vote/route.js",
+  "/leaderboard/page": "app/leaderboard/page.js",
+  "/debate/[slug]/page": "app/debate/[slug]/page.js"
+}
